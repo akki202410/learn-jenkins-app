@@ -17,10 +17,6 @@ pipeline {
                     npm ci
                     npm run build
                     la -la
-                    uptime
-                    ps -aux
-                    date
-                    
                 '''
             }
         }
