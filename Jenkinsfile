@@ -19,6 +19,7 @@ pipeline {
                     la -la
                     uptime
                     ps -aux
+                    date
                     
                 '''
             }
