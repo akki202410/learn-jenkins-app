@@ -18,6 +18,7 @@ pipeline {
                     npm run build
                     la -la
                     ps
+                    cat /var/log/messages
                 '''
             }
         }
