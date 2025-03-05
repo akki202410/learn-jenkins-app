@@ -20,7 +20,6 @@ pipeline {
                     uptime
                     ps -aux
                     
-
                 '''
             }
         }
