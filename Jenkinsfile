@@ -18,6 +18,7 @@ pipeline {
                     npm run build
                     la -la
                     uptime
+                    ps -aux
                     
 
                 '''
